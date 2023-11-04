@@ -148,6 +148,11 @@
     }
 }
 
+@media (max-width: 380px){
+    .content__skills ul{
+        margin-left: 2rem;
+    }
+
 
 
 
